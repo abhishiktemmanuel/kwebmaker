@@ -5,7 +5,7 @@ import CTA from './CTA';
 
 const Navbar = () => {
     return (
-        <nav className="fixed w-full top-0 z-50 bg-gradient-to-b from-black/60 to-transparent">
+        <nav className="fixed w-full top-0 z-50 bg-gradient-to-b from-black/50 to-transparent">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
                 <div className="flex justify-between h-16">
                     {/* Left section - Brand Logo */}
